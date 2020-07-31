@@ -45,7 +45,7 @@ namespace LoL
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string apiKey = "?api_key=" + "RGAPI-7f6c051a-e6d5-452d-b9f6-414835055785";
+            string apiKey = "?api_key=" + //YOUR API KEY;
             string playerName = textBox1.Text;
             HttpClient riot = new HttpClient();
             riot.BaseAddress = new Uri("https://na1.api.riotgames.com/");
