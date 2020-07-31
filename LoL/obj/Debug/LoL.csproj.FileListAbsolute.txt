@@ -1,0 +1,15 @@
+C:\Users\Eagle\Desktop\Project\LoL\LoL\obj\Debug\LoL.csprojAssemblyReference.cache
+C:\Users\Eagle\Desktop\Project\LoL\LoL\obj\Debug\LoL.Form1.resources
+C:\Users\Eagle\Desktop\Project\LoL\LoL\obj\Debug\LoL.Properties.Resources.resources
+C:\Users\Eagle\Desktop\Project\LoL\LoL\obj\Debug\LoL.csproj.GenerateResource.cache
+C:\Users\Eagle\Desktop\Project\LoL\LoL\obj\Debug\LoL.csproj.CoreCompileInputs.cache
+C:\Users\Eagle\Desktop\Project\LoL\LoL\bin\Debug\LoL.exe.config
+C:\Users\Eagle\Desktop\Project\LoL\LoL\bin\Debug\LoL.exe
+C:\Users\Eagle\Desktop\Project\LoL\LoL\bin\Debug\LoL.pdb
+C:\Users\Eagle\Desktop\Project\LoL\LoL\obj\Debug\LoL.exe
+C:\Users\Eagle\Desktop\Project\LoL\LoL\obj\Debug\LoL.pdb
+C:\Users\Eagle\Desktop\Project\LoL\LoL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eagle\Desktop\Project\LoL\LoL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Eagle\Desktop\Project\LoL\LoL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eagle\Desktop\Project\LoL\LoL\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Eagle\Desktop\Project\LoL\LoL\obj\Debug\LoL.csproj.CopyComplete
